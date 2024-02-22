@@ -41,7 +41,7 @@ body{
     position: absolute;
     top: 20vh;
     font-size: 120px;
-
+}
 .bottom{
     margin: 0px;
     padding: 0px;
@@ -89,14 +89,15 @@ body{
 }
 
 .instagram{
-    color: rgb(0, 0, 0);
+    color: #00F0B5;
 
     position: absolute;
     left: 10rem;
-    top: 2.8rem;
+    top: 105vh;
 
     font-family: sans-serif;
     font-size: 3rem;
+
 }
 
 .ring{
@@ -104,7 +105,7 @@ body{
 
     position: absolute;
     left: 11rem;
-    top: 9.3rem;
+    top: 118vh;
 
     font-family: sans-serif;
     font-size: 3rem;
@@ -115,21 +116,21 @@ body{
 
     position: absolute;
     left: 8rem;
-    top: 17.5rem;
+    top: 134vh;
 
     font-family: sans-serif;
     font-size: 1.5rem;
 }
 
 .hercules{
-    color: rgb(0, 0, 0);
+    color: #00F0B5;
 
     position: absolute;
-    left: 41rem;
-    top: 2.5rem;
+    left: 38rem;
+    top: 106vh;
 
     font-family: sans-serif;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .bambi{
@@ -137,18 +138,18 @@ body{
 
     position: absolute;
     left: 43rem;
-    top: 8rem;
+    top: 115vh;
 
     font-family: sans-serif;
     font-size: 3rem;
 }
 
 .facebook{
-    color: rgb(0, 0, 0);
+    color: #00F0B5;
 
     position: absolute;
     left: 40rem;
-    top: 14.5rem;
+    top: 128vh;
 
     font-family: sans-serif;
     font-size: 3rem;
@@ -159,18 +160,18 @@ body{
 
     position: absolute;
     left: 73rem;
-    top: 2.5rem;
+    top: 105vh;
 
     font-family: sans-serif;
     font-size: 3rem;
 }
 
 .phone{
-    color: rgb(0, 0, 0);
+    color: #00F0B5;
 
     position: absolute;
     left: 70rem;
-    top: 11rem;
+    top: 120vh;
 
     font-family: sans-serif;
     font-size: 2rem;
@@ -181,7 +182,7 @@ body{
 
     position: absolute;
     left: 73rem;
-    top: 15.5rem;
+    top: 130vh;
 
     font-family: sans-serif;
     font-size: 3rem;
