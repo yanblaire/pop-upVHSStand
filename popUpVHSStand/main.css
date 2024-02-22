@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    background-image: url(assets/images/background\ 1.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.roof{
+    position: absolute;
+    top: -160px;
+    width: 150vw;
+    height: 150vh;
+}
+.cassettePlayer{
+    position: absolute;
+    top: 55vh;
+    width: 40vw;
+}
+.speechText{
+    position: absolute;
+    top: 55vh;
+    width: 40vw;
+    top: 60vh;
+    left: 15vw;
+}
+#text{
+    font-size: 70px;
+    position: absolute;
+    top: 56vh;
+    left: 17vw;
+}
+.top h1{
+    position: absolute;
+    top: 20vh;
+    font-size: 120px;
+}
